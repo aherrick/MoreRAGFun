@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreRAGFun", "MoreRAGFun.csproj", "{186D4C70-28DB-4FC1-8762-4DD0EE6DBDA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186D4C70-28DB-4FC1-8762-4DD0EE6DBDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186D4C70-28DB-4FC1-8762-4DD0EE6DBDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186D4C70-28DB-4FC1-8762-4DD0EE6DBDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186D4C70-28DB-4FC1-8762-4DD0EE6DBDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D24A762-0C8C-407E-901D-6B3D77AAAA9E}
+	EndGlobalSection
+EndGlobal
