@@ -15,7 +15,7 @@ jobs:
 
     # Setup .NET SDK
     - name: Setup .NET
-      uses: actions/setup-dotnet@v3
+      uses: actions/setup-dotnet@v4
       with:
         dotnet-version: '9.x'  
 
