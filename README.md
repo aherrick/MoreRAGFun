@@ -6,7 +6,7 @@ https://github.com/MozzieBytes/semantic-kernel/tree/main/dotnet/samples/Demos/Ve
  
  User Secrets:
 
- ```
+```
  {
   "AzureOpenAIConfig": {
     "Endpoint": "https://my-ai.openai.azure.com/",
