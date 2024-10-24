@@ -1,5 +1,7 @@
 # MoreRAGFun
 
+![dotnet](https://github.com/aherrick/moreragfun/actions/workflows/dotnet.yml/badge.svg)
+
 Took fully inspritaiton from this example but I wanted to trim it down in a standalone console app and target Azure AI.
 
 https://github.com/MozzieBytes/semantic-kernel/tree/main/dotnet/samples/Demos/VectorStoreRAG
