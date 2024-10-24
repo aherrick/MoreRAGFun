@@ -21,4 +21,4 @@ jobs:
 
     # Build the project
     - name: Build project
-      run: dotnet build ./moreragfun.csproj --configuration Release
+      run: dotnet build MoreRAGFun.csproj
